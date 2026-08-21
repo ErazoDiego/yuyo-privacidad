@@ -1,6 +1,6 @@
 # Política de Privacidad — Yuyo: Remedios Naturales
 
-**Última actualización:** 7 de agosto de 2026
+**Última actualización:** 21 de agosto de 2026
 
 ## 1. Introducción
 
@@ -11,7 +11,7 @@ Al usar la app aceptás las prácticas descriptas en esta política.
 ## 2. Datos que recopilamos
 
 **2.1. Datos que vos proporcionás:**
-- **Cuenta:** cuando te registrás o iniciás sesión, se guardan tu correo electrónico y contraseña (encriptada). El registro es opcional.
+- **Cuenta:** cuando te registrás o iniciás sesión, se guardan tu correo electrónico y contraseña (protegida con hash). El registro es opcional.
 - **Contenido propio:** las recetas de remedios naturales que creás y guardás dentro de la app, y las recetas que marcás como favoritas.
 
 **2.2. Datos recopilados automáticamente:**
@@ -43,7 +43,7 @@ Tus datos se almacenan de forma segura en servidores de Supabase con cifrado en 
 
 ## 7. Retención de datos
 
-Conservamos tus datos mientras tu cuenta esté activa. Podés eliminar tu cuenta y todos tus datos en cualquier momento desde la app, o solicitándolo por correo al contacto de la sección 11.
+Conservamos tus datos mientras tu cuenta esté activa. Podés eliminar tu cuenta y todos tus datos en cualquier momento desde la app, o iniciando el proceso desde nuestra [página de eliminación de cuenta](https://erazodiego.github.io/yuyo-privacidad/eliminar-cuenta.html). También podés contactarnos por correo electrónico.
 
 ## 8. Tus derechos
 
